@@ -1,6 +1,4 @@
 # InfrastructureAsCode-IaC
- > Linux
-
 ## Scripts
 
 - iac1.sh : Provides programmatic creation of users, groups and permissions.
